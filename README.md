@@ -67,6 +67,19 @@ These physical non-idealities can be mapped into a common computational view, in
 
 The key point is that an error generated at one level does not necessarily remain local. Its form and impact may change as it passes through sensing, conversion, accumulation, and system-level processing. Therefore, robustness should be evaluated from a cross-layer perspective rather than by optimizing each layer independently.
 
+## Technical notes
+
+The following notes extend the cross-layer framework with concise technical explanations, evaluation questions, and mitigation considerations:
+
+- [Device-level non-idealities](topics/device_level.md)
+- [Array-level non-idealities](topics/array_level.md)
+- [Circuit-level non-idealities](topics/circuit_level.md)
+- [Data-conversion non-idealities](topics/data_conversion.md)
+- [Cross-layer error propagation](topics/error_propagation.md)
+- [Cross-layer error mitigation](topics/mitigation.md)
+
+These notes are evolving educational resources, not a reproduction of the publisher-formatted review.
+
 ## Contents
 
 - Paper information
