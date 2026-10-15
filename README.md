@@ -80,6 +80,12 @@ The following notes extend the cross-layer framework with concise technical expl
 
 These notes are evolving educational resources, not a reproduction of the publisher-formatted review.
 
+## Articles & Technical Insights
+
+Selected accessible articles discussing cross-layer non-idealities and error propagation in analog in-memory computing.
+
+- [Why Errors in Analog In-Memory Computing Need a Cross-Layer View](https://medium.com/@zydd1921/why-errors-in-analog-in-memory-computing-need-a-cross-layer-view-27c714248e2b) — An introduction to why AIMC errors should be analyzed across hardware abstraction levels.
+
 ## Contents
 
 - Paper information
