@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this repository or its technical notes, please cite the associated Journal of Semiconductors review paper."
+type: software
+title: "AIMC-Error-Review: Cross-Layer Error Mechanisms and Mitigation in Analog In-Memory Computing"
+authors:
+  - family-names: Ding
+    given-names: Zeying
+  - family-names: Di
+    given-names: Yantong
+  - family-names: Du
+    given-names: Haoran
+  - family-names: Chen
+    given-names: Haoran
+  - family-names: Hou
+    given-names: Yaoru
+  - family-names: Liu
+    given-names: Bo
+  - family-names: Cai
+    given-names: Hao
+repository-code: "https://github.com/ZYingD/AIMC-Error-Review"
+url: "https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006"
+preferred-citation:
+  type: article
+  title: "A Cross-Layer Review of Error Mechanisms and Mitigation in Analog In-Memory Computing"
+  authors:
+    - family-names: Ding
+      given-names: Zeying
+    - family-names: Di
+      given-names: Yantong
+    - family-names: Du
+      given-names: Haoran
+    - family-names: Chen
+      given-names: Haoran
+    - family-names: Hou
+      given-names: Yaoru
+    - family-names: Liu
+      given-names: Bo
+    - family-names: Cai
+      given-names: Hao
+  journal: "Journal of Semiconductors"
+  year: 2026
+  doi: "10.1088/1674-4926/26060006"
+  url: "https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006"
