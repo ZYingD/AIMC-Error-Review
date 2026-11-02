@@ -12,7 +12,7 @@ The repository is intended to grow over time with concise technical notes, updat
 
 The scope of this repository is closely aligned with the following review:
 
-**From device non-idealities to computation accuracy: A cross-layer review of error mechanisms and mitigation in analog in-memory computing**
+**A Cross-Layer Review of Error Mechanisms and Mitigation in Analog In-Memory Computing**
 
 Zeying Ding, Yantong Di, Haoran Du, Haoran Chen, Yaoru Hou, Bo Liu, and Hao Cai
 
@@ -21,6 +21,25 @@ Zeying Ding, Yantong Di, Haoran Du, Haoran Chen, Yaoru Hou, Bo Liu, and Hao Cai
 DOI: `10.1088/1674-4926/26060006`
 
 Official article page: [Journal of Semiconductors](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006)
+
+## Citation
+
+If you use this repository's cross-layer error framework or technical notes in academic work, please cite the associated peer-reviewed review article:
+
+Ding, Z., Di, Y., Du, H., Chen, H., Hou, Y., Liu, B., and Cai, H., "A Cross-Layer Review of Error Mechanisms and Mitigation in Analog In-Memory Computing," *Journal of Semiconductors*, 2026. DOI: [10.1088/1674-4926/26060006](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006).
+
+```bibtex
+@article{Ding2026AIMCErrors,
+  author  = {Zeying Ding and Yantong Di and Haoran Du and Haoran Chen and Yaoru Hou and Bo Liu and Hao Cai},
+  title   = {A Cross-Layer Review of Error Mechanisms and Mitigation in Analog In-Memory Computing},
+  journal = {Journal of Semiconductors},
+  year    = {2026},
+  doi     = {10.1088/1674-4926/26060006},
+  url     = {https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006}
+}
+```
+
+GitHub's **Cite this repository** feature uses the machine-readable [CITATION.cff](CITATION.cff) file, which sets the journal review as the preferred citation. The BibTeX above intentionally omits volume, issue, and page/article number until verified.
 
 ## Cross-layer AIMC error framework
 
