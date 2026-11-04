@@ -21,7 +21,7 @@ repository-code: "https://github.com/ZYingD/AIMC-Error-Review"
 url: "https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006"
 preferred-citation:
   type: article
-  title: "A Cross-Layer Review of Error Mechanisms and Mitigation in Analog In-Memory Computing"
+  title: "From device non-idealities to computation accuracy: A cross-layer review of error mechanisms and mitigation in analog in-memory computing"
   authors:
     - family-names: Ding
       given-names: Zeying
@@ -39,5 +39,7 @@ preferred-citation:
       given-names: Hao
   journal: "Journal of Semiconductors"
   year: 2026
+  volume: "47"
+  issue: "12"
   doi: "10.1088/1674-4926/26060006"
   url: "https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006"
