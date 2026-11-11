@@ -1,12 +1,18 @@
 # AIMC-Error-Review
 
-A cross-layer resource on non-idealities, error propagation, and mitigation in analog in-memory computing.
+An open, cross-layer guide to analog in-memory computing (AIMC/CIM) errors—from device variation and array IR drop to sensing, data conversion, system-level error propagation, calibration, and hardware-aware mitigation.
 
 ## About this repository
 
 This repository provides a structured and continuously updated resource for understanding non-idealities in analog in-memory computing (AIMC). The focus is on how errors originate at different hardware abstraction levels, how they transform and propagate through the computation flow, and how cross-layer mitigation can improve robustness.
 
 The repository is intended to grow over time with concise technical notes, updated references, original explanatory figures, and links to related work.
+
+## Start here
+
+- [Understand how AIMC errors propagate across layers](topics/error_propagation.md) — Follow an error from its physical origin through sensing, conversion, accumulation, and model output.
+- [Compare cross-layer mitigation strategies](topics/mitigation.md) — Connect calibration, circuit techniques, mapping, and hardware-aware training to the errors they address.
+- [Read the associated Journal of Semiconductors review](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26060006) — Access the official abstract, HTML article, citation export, and publication record.
 
 ## Related review paper
 
@@ -109,10 +115,6 @@ Selected accessible articles discussing cross-layer non-idealities and error pro
 
 - [Why Errors in Analog In-Memory Computing Need a Cross-Layer View](https://medium.com/@zydd1921/why-errors-in-analog-in-memory-computing-need-a-cross-layer-view-27c714248e2b) — An introduction to why AIMC errors should be analyzed across hardware abstraction levels.
 
-## Contents
+## Topics and search terms
 
-- Paper information
-- Cross-layer AIMC error framework
-- Core error categories
-- Planned technical notes and updates
-- Citation and copyright information
+This resource covers analog in-memory computing, compute-in-memory, cross-layer error modeling, device variation and conductance drift, array IR drop and parasitics, sensing offset and circuit noise, ADC/DAC quantization, error propagation, calibration, hardware-aware training, and algorithm–hardware co-design.
